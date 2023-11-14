@@ -1,0 +1,19 @@
+START itunes
+START firefox
+START putty
+CALL play
+CALL navigate
+RETURN
+RETURN
+RETURN
+RETURN
+RETURN
+RETURN
+RETURN
+CALL pause
+START Google
+CALL clear
+CALL catche
+RETURN
+RETURN
+RETURN
